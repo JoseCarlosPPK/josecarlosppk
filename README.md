@@ -22,7 +22,7 @@
 - Flask, Django
 
 **Herramientas:**  
-- Git, GitHub, Make, Docker, Penpot, Apidog etc.
+- Git, GitHub, Make, Docker, Penpot, Apidog
 
 **Administración:**
 - Apache Server, Nginx, MySQL server
