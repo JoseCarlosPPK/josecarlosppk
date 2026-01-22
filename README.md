@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mí
 - 🎓 Ingeniería Informática - ETSIIT UGR
-- 🛠️ Experiencia con: C/C++, Pyhton, Java, JavaScript, HTML, CSS, Administración de servidores
+- 🛠️ Experiencia con: C/C++, Pyhton, Java, JavaScript, Desarrollo Web, Administración de servidores, Machine Learning, Visión por Computador
 - 🌱 Actualmente aprendiendo: React | IoT
 - 🎯 Objetivo: ser un gran ingenierio informático capaz de diseñar, desarrollar y desplegar buenas soluciones
 
