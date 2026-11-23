@@ -69,9 +69,9 @@ Plataforma web para la gestión de listados de centros de prácticas de los alum
 - Frontend: https://github.com/JoseCarlosPPK/FarmaList_frontend
 - Backend: https://github.com/JoseCarlosPPK/FarmaList_backend
 
-🔹 **[Portfolio](https://github.com/JoseCarlosPPK/portfolio)**\
+<!--🔹 **[Portfolio](https://github.com/JoseCarlosPPK/portfolio)**\
 Portfolio personal para mostrar quién soy, qué habilidades tengo y qué proyectos puedo ofrecer.
-- 🔨 **En construcción…**
+- 🔨 **En construcción…** -->
 
 
 ---
